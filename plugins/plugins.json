@@ -1,0 +1,7 @@
+,
+{
+  "id": "scrypted-fire-detector",
+  "name": "Fire Detector",
+  "description": "Detect fire based on color and motion from video stream.",
+  "repo": "https://github.com/dinhthaicx/scrypted-fire-detector.git"
+}
